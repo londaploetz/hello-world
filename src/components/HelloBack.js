@@ -3,7 +3,7 @@ import React from "react";
 function HelloBack () {
 
     return (
-        <h1>Hello Back To You!</h1>
+        <h1>Hello Back!</h1>
     )
 }
 
