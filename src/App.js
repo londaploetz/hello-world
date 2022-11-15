@@ -1,10 +1,10 @@
-import React from 'react';
-import './App.css';
-  
-function App() {
-    return ( 
-      <h1> Hello World Bitches! </h1>
-    );
+import React from "react";
+
+function HelloBack () {
+
+    return (
+        <h1>Hello BACK!</h1>
+    )
 }
-  
-export default App;
+
+export default HelloBack;
